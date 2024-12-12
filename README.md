@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NadaWalid22
 - 👀 I’m interested in Sowftware developer
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nada7224@icloud.com
 - 😄 Pronouns: ...
